@@ -15,11 +15,11 @@ ___
     
     setTimeout(function(){
       $('#').fadeIn('slow');
-	  },n);
+    },n);
     
-	  setTimeout(function(){
-		  $('#').fadeOut('slow');
-		  $('#').hide();
+    setTimeout(function(){
+      $('#').fadeOut('slow');
+      $('#').hide();
     },n);
     
     $('#').click(function () { }
